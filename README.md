@@ -7,17 +7,6 @@
 
 ---
 
-## Team
-| Name | Register Number |
-|------|----------------|
-| Nimisha Ann Shaji | RA2311027010073 |
-| V.N. Preetam | RA2311027010100 |
-| K. Bhavya | RA2311027010113 |
-
-**Guide:** Dr. R. Radha, Assistant Professor, DSBS
-
----
-
 ## About the Project
 An AI-based system that automatically classifies infant cries into four categories:
 - 🍼 **Hungry**
