@@ -1,0 +1,25 @@
+# Dataset and audio files (too large for GitHub)
+*.wav
+*.zip
+dataset/
+/content/dataset/
+donateacry_corpus/
+
+# Trained model file
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter / Colab checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# Google Drive mount
+drive/
+
+# OS files
+.DS_Store
+Thumbs.db
